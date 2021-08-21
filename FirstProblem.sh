@@ -23,6 +23,5 @@ elif [ $n4 -gt $n1 ] && [ $n4 -gt $n2 ] && [ $n4 -gt $n3 ] && [ $n4 -gt $n5 ]
 then 
 	echo "Fourth number is biggest number."
 else 
-	echo "Fifth number is biggest number."
-fi 
-echo "this is for updation purpose"
+	echo "Fifth number is biggest number." fi 
+echo "this is third commit "
